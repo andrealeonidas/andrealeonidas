@@ -19,4 +19,4 @@ Build projects that combine creativity and technology.
 
 ## My CV
 
-📄 [View my CV](./Andrea CV - 2026pdf.pdf)
+📄 [View my CV](<Andrea CV - 2026pdf.pdf>)

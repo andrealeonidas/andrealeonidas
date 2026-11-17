@@ -16,3 +16,7 @@
 🚀 Current Goal:
 
 Build projects that combine creativity and technology.
+
+## My CV
+
+📄 [View my CV](./CV.pdf)
